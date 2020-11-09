@@ -1,0 +1,10 @@
+{
+    "apps": [{
+        "name": "satomi-master",
+        "script": "index.js",
+        "watch": false,
+        "merge_logs": false,
+        "output": "./logs/satomi-master-output.log",
+        "error": "./logs/satomi-master-error.log"
+    }]
+}
